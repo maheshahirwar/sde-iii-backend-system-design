@@ -12,6 +12,15 @@ roles with a focus on:
 
 ---
 
+## 🎯 Target Roles
+
+- SDE-III / Senior Software Engineer
+- Senior Backend Engineer
+- Platform Engineer
+- System Design heavy roles
+
+---
+
 ## 📌 Preparation Order (Strictly Followed)
 
 1. Backend Development
@@ -25,12 +34,67 @@ Each folder represents **real preparation**, not tutorial code.
 
 ---
 
-## 🎯 Target Roles
+## 📂 Repository Structure
 
-- SDE-III / Senior Software Engineer
-- Senior Backend Engineer
-- Platform Engineer
-- System Design heavy roles
+```text
+sde-iii-backend-system-design/
+│
+├── README.md                      # Main entry point
+│
+├── expectations/                  # SDE-III expectations & mindset
+│   └── README.md
+│
+├── backend/                       # Backend engineering foundation
+│   ├── README.md
+│   ├── user-service/
+│   ├── product-service/
+│   └── common-lib/
+│
+├── cloud/                         # Cloud & AWS preparation
+│   ├── README.md
+│   ├── aws-architecture/
+│   ├── deployment-guides/
+│   └── cicd/
+│
+├── projects/                      # Killer real-world projects
+│   ├── ecommerce-microservices/
+│   │   └── README.md
+│   ├── realtime-chat/
+│   │   └── README.md
+│   ├── url-shortener/
+│   │   └── README.md
+│   └── infra-services/
+│       └── README.md
+│
+├── system-design-projects/        # Design-first system projects
+│   ├── README.md
+│   ├── payment-system/
+│   │   └── README.md
+│   ├── wallet-system/
+│   │   └── README.md
+│   └── notification-system/
+│       └── README.md
+│
+├── big-system-design/             # High-level designs of real systems
+│   ├── README.md
+│   ├── youtube/
+│   │   └── README.md
+│   ├── uber/
+│   │   └── README.md
+│   ├── whatsapp/
+│   │   └── README.md
+│   ├── amazon/
+│   │   └── README.md
+│   └── netflix/
+│       └── README.md
+│
+└── interview-prep/                # Interview-specific preparation
+    ├── README.md
+    ├── mock-interviews/
+    ├── common-questions.md
+    └── resume-mapping.md
+
+```
 
 ---
 
