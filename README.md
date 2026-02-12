@@ -8,7 +8,7 @@ roles with a focus on:
 - Large-scale distributed systems
 - Event-driven architecture
 - System Design (HLD + LLD)
-- Interview preparation for 80 LPA – 1 Cr roles
+- Interview preparation for SDE-III roles
 
 ---
 
